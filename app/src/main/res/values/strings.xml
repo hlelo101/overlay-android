@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Overlay</string>
+    <string name="click_overlay_button">=</string>
+    <string name="accessibility_service_description">A totally friendly service :)</string>
+</resources>
